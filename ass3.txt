@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Form</title>
+</head>
+<body>
+    <h2>Registration Form</h2>
+    <form>
+        <label>Name:</label><br>
+        <input type="text" name="name" value="Santoshi Pawar"><br><br>
+        <label>Email:</label><br>
+        <input type="email" name="email" value="santoshipawar@gmail.com"><br><br>
+        <label>Gender:</label><br>
+        <input type="radio" name="gender" value="Male"> Male
+        <input type="radio" name="gender" value="Female" checked> Female
+        <input type="radio" name="gender" value="Other"> Other
+        <br><br>
+        <label>Date of Birth:</label><br>
+        <input type="date" name="dob"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
+

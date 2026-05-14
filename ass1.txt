@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Personal Details</title>
+
+    </head>
+    <body>
+        <h2 style=" text-align: center;"><u>Personal Details</u></h2>
+        <p>
+            <b>Name:</b><i>Santoshi Pawar</i><br><br>
+            <b>Age:</b><i>20</i><br><br>
+            <b>Course:</b><i>Computer science</i><br><br>
+            <b>College:</b><i>Smt.Kashibai Navale College of Engineering</i><br><br>
+            <b>Email:</b><i>santoshipawar@gmail.com</i>
+            
+        </p>
+        <hr>
+        <p style="text-align: center;">
+            <small>Thank You for visiting my page.</small>
+        </p>
+        <hr>
+    </body>
+</html>

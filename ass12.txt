@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PHP Array Input</title>
+</head>
+<body>
+
+<h2>PHP Array Storage and Display</h2>
+
+<?php 
+//creating an array
+$fruits = array("Apple", "Banana", "Mango");
+//Displaying array values
+echo "<h3>Fruits:</h3>";
+echo "<ul>";
+foreach ($fruits as $fruit) {
+    echo "<li>" . $fruit . "</li>";
+}
+echo "</ul>";
+//Displaying array using index
+echo "<h3>Accessing Individual Elements:</h3>";
+echo "First fruit: " . $fruits[0] . "<br>";
+echo "Second fruit:" . $fruits[1] . "<br>";
+
+?>
+
+</body>
+</html>
